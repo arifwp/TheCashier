@@ -1,7 +1,9 @@
 # TheCashier
 
 a. Nama Aplikasi : TheCashier
+
 b. Fungsionalitas : Menambahkan barang/jasa dan melihat total harga dari barang/jasa
+
 c. 
 
         public Item(int id, string title, int quantity, string type, double price)
